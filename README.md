@@ -1,4 +1,4 @@
-# IG-Name-Bypass - By Roni
+# IG-Name-Bypass | By Roni
 
 <img src="https://imgur.com/pPP171R.png" align="right"
      alt="Program Info - @0xroni" width="200" height="200">
